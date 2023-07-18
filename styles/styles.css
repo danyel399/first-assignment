@@ -30,11 +30,59 @@ nav p {
     font-weight: 400;
 
 }
-header{
-    background-color: rgba(229, 84, 115, 0.10);;
+
+header {
+    background-color: rgba(229, 84, 115, 0.10);
+    ;
     display: flex;
     padding: 50px 240px;
+    margin: auto;
 }
-header image {
-    padding: 50px 240px;
+
+.banner {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    padding-bottom: 24px;
+}
+
+main nav {
+    background: #FFF;
+}
+
+.pic-container {
+    display: flex;
+    margin-inline: 24px;
+    justify-content: space-between;
+    padding: 10px 250px 30px;
+}
+
+.pic-6 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    padding: 110px 78px 0;
+}
+
+.pic-5 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    padding: 118px 48px 52px;
+}
+
+.pic-7 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    padding: 68px 76px 0;
+}
+
+.pic-title {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 460px 30px;
+    color: #272727;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
 }
