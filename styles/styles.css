@@ -102,8 +102,28 @@ main nav {
     font-style: normal;
     font-weight: 600;
 }
+
 .section2 {
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
-    margin: 0 auto;
+    margin: 0 270px 70px;
+   
+}
+
+.title-2 {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    padding-bottom: 5px;
+
+
+}
+
+.section3 {
+    display: flex;
+    justify-content: center;
+    padding: 105px 500px 100px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
 }
