@@ -86,3 +86,24 @@ main nav {
     font-weight: 700;
     text-decoration-line: underline;
 }
+
+.logo-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 260px 10px;
+}
+
+.logo-title {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 250px 50px;
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+}
+.section2 {
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 0 auto;
+}
