@@ -137,9 +137,67 @@ main nav {
     justify-content: center;
     margin-bottom: 40px;
 }
+
 .group-images {
     display: flex;
     justify-content: space-between;
     margin: 20px 260px 90px;
 }
-    
+
+.section5 {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    justify-items: center;
+    padding-top: 80px;
+}
+
+form {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 350px 100px;
+}
+
+.email {
+    width: 1000px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
+    border-style: none;
+}
+
+.latest-deals {
+    background-image: url('Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    margin: 30px 250px 60px 280px;
+    padding-left: 30px;
+
+}
+
+.section6 {
+    display: block;
+    text-align: center;
+    background-color: #111010;
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.last-title {
+    font-size: 70px;
+    font-weight: 800;
+}
+
+.end {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+
+}
